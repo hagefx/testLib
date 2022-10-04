@@ -7,6 +7,9 @@ def test():
     x = np.random.randn(10)
     return x
 
+def test2():
+    return 999
+
 
 def main():
     print('hello testLib.util')
